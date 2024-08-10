@@ -1,3 +1,0 @@
-/home/nu/CMake/out/build/CMakeFiles/SAYHI.dir
-/home/nu/CMake/out/build/CMakeFiles/edit_cache.dir
-/home/nu/CMake/out/build/CMakeFiles/rebuild_cache.dir

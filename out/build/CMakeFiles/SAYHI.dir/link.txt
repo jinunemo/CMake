@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/SAYHI.dir/main.cpp.o -o SAYHI 
